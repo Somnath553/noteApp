@@ -22,7 +22,7 @@ function Editnote(props) {
   return (
     <div className="fixed w-[100vw] h-[100vh] bg-[#00000080] top-0 left-0 right-0 bottom-0">
    
-  <form className="bg-white shadow-md rounded absolute lg:w-[50rem] md:w-[30rem] px-8 pt-6 pb-8 mb-4  h-[70%] top-[10%] left-[20%]">
+  <form className="bg-white shadow-md rounded absolute lg:w-[50rem] md:w-[30rem] px-8 pt-6 pb-8 mb-4  top-[10%] left-[20%]">
     <div className="mb-4">
       <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="title">
         title
